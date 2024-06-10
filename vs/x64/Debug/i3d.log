@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\whu00\Documents\RMIT\3D\Assignment\i3d\src\main.cpp(86,51): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\whu00\Documents\RMIT\3D\Assignment\i3d\src\main.cpp(86,46): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  i3d.vcxproj -> C:\Users\whu00\Documents\RMIT\3D\Assignment\i3d\i3d64dbg.exe
